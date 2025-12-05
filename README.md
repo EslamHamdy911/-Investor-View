@@ -1,11 +1,17 @@
-<div align="center">
+# Investor View
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A bilingual platform (Arabic/English) showcasing No-Code projects with investment details, offline capabilities, and detailed project insights.
 
-  <h1>Built with AI Studio</h2>
+## Features
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **Project Showcase:** View detailed information about No-Code projects.
+- **Bilingual:** Full support for Arabic and English.
+- **Offline First:** Works without an internet connection after the first visit (PWA).
+- **Dark/Light Mode:** User interface adapts to your preference.
+- **Direct Connection:** Request details to connect with project owners.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## License
 
-</div>
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Copyright (c) 2025 Nakamoko Systems.
