@@ -131,7 +131,7 @@ const App: React.FC = () => {
       <footer className="bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-800 py-8 mt-auto">
         <div className="container mx-auto px-4 text-center">
             <p className="text-gray-500 dark:text-gray-400 text-sm">
-                &copy; {new Date().getFullYear()} Investor View. {lang === Language.EN ? "All rights reserved." : "جميع الحقوق محفوظة."}
+                &copy; {new Date().getFullYear()} Nakamoko Systems. {lang === Language.EN ? "All rights reserved." : "جميع الحقوق محفوظة."}
             </p>
         </div>
       </footer>
